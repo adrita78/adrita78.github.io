@@ -4,52 +4,65 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-
-## Industry Experience
-------
-### [Morgan Stanley](https://www.morganstanley.com)
-Quantitative Summer Analyst
-
-May 2022 - August 2022
-  * Utilized Bayesian Vector Autoregression with historical macroeconomic data to forecast quarterly Consumer Price Index values for Poland
-  * Forecast customer stock prices based on supplier environmental, social, and governance features in supply chain relationship data
-
-### [Morgan Stanley](https://www.morganstanley.com)
-Office of COO: Data & Analytics Summer Analyst
-
-May 2021 - August 2021
-  * Used blockchain data along with market data to cluster cryptocurrencies and build time-series models for forecasting company returns
-  * Conducted A/B testing to identify the effect of alternative patent data from company portfolios on stock prices
-  
-### [NextEra Energy](http://www.nexteraenergy.com)
-Data Science Intern
-
-May 2020 - August 2020
-  * Built unsupervised models utilizing UMAP, t-SNE, DBSCAN, K-means, and K-medoids to cluster customer profiles using big data with both numerical and categorical features
-  * Built and deployed algorithms utilizing NLP and geolocation that matches addresses to analyze customer data
-  * Converted IBM COBOL data to CSV and decrypted EBCDIC in Python
-
 ## Research Experience
 ------
-### Machine Learning Department, Carnegie Mellon University
+### MAIL LAB, Carnegie Mellon University
 Research Assistant
 
-November 2021 - Present
-  * Researched the impact of various design choices in ML pipelines that amplify or remedy bias and fairness on downstream inequities measured through notions of predictive performance and predictive disparity
-  * Built a prototype testbed that displays the effects on bias from interactions between the construct and observed space
+May 2023 - Present
+  * Building and training models based on language models and graph neural networks to design antibodies against viruses using machine learning.Writing pipelines to process PDB files to extract coordinates and torsion angles for training.
+  * Constructed and optimized BERT-based language models both in supervised and semi-supervised learning frameworks for predicting properties of several short-sequence peptides.(Co- first authorship with Chakradhar G.)[Paper](https://drive.google.com/file/d/1FvpBwEah6IGQ-XkaWoh5FrzDvzxarYj9/view?usp=sharing)
+  * Developed and implemented an innovative approach to predict peptide properties by leveraging a combination of advanced machine learning techniques. Integrated Convolutional Graph neural networks(CGCNN) to extract relevant structural features and enrich the predictive model.
+  * Applied a novel joint training strategy, incorporating contrastive learning (CLIP or Barlow Twin loss), to leverage both sequence and structural information effectively.Collaborated with interdisciplinary teams to curate and preprocess large-scale peptide datasets, ensuring high-quality input for model training.Demonstrated the success of the approach through comprehensive evaluation and benchmarking against state-of-the-art methods.
 
-### Department of Statistics and Data Science, Carnegie Mellon University
-Research Assistant
+### MAIL LAB, Carnegie Mellon University
+Graduate Student Researcher
 
-August 2020 - December 2021
-  * Used NLP and clustering to analyze data from Pennsylvania Prison Society, Correctional Association of New York, and John Howard Association of Illinois to develop cross-state indicators of differing levels in prison quality
+August 2022 - April 2023
+  * Applied various shallow machine learning models to understand the dynamics of trans-membrane
+  proteins such as GPCRS.Performed simulation of GPCRs using OpenMM and RL and MD simulation and
+  automated it with the machine learning model.
 
-### Behavioral Health Research Laboratory, Carnegie Mellon University
-Research Assistant
+### Molecular Chemistry Lab, Vellore Institute of Technology
+Undergraduate Student Researcher
 
-July 2019 – December 2019
-  * Federally funded research that models social and biological factors in real-world contexts under conditions of alcohol use
-  * Analyzed various data sets using SPSS from participants, helped run clinical trials, and led several lab meetings
+November 2018 – August 2022
+  * Performed mass spectrometric analysis of the actions of AspN,LysC and GluC on some
+  therapeutic antibodies to determine the length(size) distribution of polypeptides that result from
+  the proteolysis of those antibodies.Used DeepPep as a tool for the analysis of MS-MS data.
+  * Worked on molecular docking analysis of natural products for the inhibition of the main protease
+  of SARS-Cov-2 and repurposing drugs against the main protease of SARS-CoV-2.
+  * Worked on investigating the solvatochromic(fluorescence) properties of Bromophenol Blue in
+  organic solvents in order to probe protein folding or protein binding studies in organic solvents.
+  Performed UV-Vis spectroscopic, mass-spectrometric , FTIR and NMR spectroscopic analysis for
+  carrying out this investigation.
+  * Presented findings at the International Conference of Chemical Sciences and
+  Nanomaterials(2019) and at 26th CRSI National Symposium on Chemistry- Royal Society of
+  Chemistry (2020).
 
+### Cellular Biomechanics Lab, Vellore Institute of Technology
+Undergraduate Project Assistant
 
-[Return to Main Page](https://liangeric.github.io)
+June 2019 – October 2019
+  * Performed design,characterization and in vitro evaluation of thin films enriched by tannic acid
+  complexed by Fe(III) ions for potential applications as wound dressing.
+  * Employed techniques such as FTIR spectroscopy,SEM and UV-Vis spectroscopy for
+  characterization of the films.
+  * Different tests and measurements were being performed for the films including contact angle
+  measurements, blood compatibility tests,platelet adhesion tests and MTS Assay. The results of
+  the MTS assay were being analyzed one-way ANOVA.
+
+### Molecular Biophysics Unit, Indian Institute of Science
+Undergraduate Summer Research Assistant
+
+June 2019 – October 2019
+  * As an undergraduate researcher, I embarked on a fascinating project on investigating the reaction
+  of phenylglyoxal and arginine residues with proteins.
+  * Employed the powerful tool of NMR spectroscopy, specifically using C13 and H1 NMR
+  techniques
+  * Conducted experiments in varying pH levels and concentrations and examined how these factors
+  influenced the reaction outcome.
+  * Expanded my knowledge of advanced NMR techniques such as TOCS, COSY and NOESY.Delved into NMR pulse programming which involved designing and implementing precise sequences of radiofrequency pulses to optimize data acquisition and extract maximum
+  information from the samples.
+
+[Return to Main Page](https://adritad.github.io)
