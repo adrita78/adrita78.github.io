@@ -63,4 +63,4 @@ GPA: 7.84/10.00
     * Engineering Physics
 
 
-[Return to Main Page](https://adritad.github.io)
+[Return to Main Page](https://adrita78.github.io)
