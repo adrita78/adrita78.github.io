@@ -6,33 +6,29 @@ author_profile: true
 ---
 
 ### Carnegie Mellon University
-January 2022 - December 2022
+August 2022 - December 2023
 
-Master of Science, Machine Learning
+Master of Science, Bioengineering, Machine Learning
 
-GPA: 4.00/4.00
+GPA: 3.20/4.00
 
 ### Carnegie Mellon University
-August 2018 - December 2021
+July 2017 - July 2021
 
-Bachelor of Science, Major in Statistics and Machine Learning, Minor in Computer Science
+Bachelor of Technology, Major in Bioengineering, Minor in Computer Science
 
-GPA: 3.87/4.00, University Honors
+GPA: 7.84/10.00
 
 [Quantitative Social Science Scholars Honors Program](https://www.cmu.edu/dietrich/qsss/)
 
 ### Relevant Coursework
   * **Statistics and Data Science:**
     * Probability and Mathematical Statistics
-    * Advanced Methods for Data Analysis
-    * Modern Regression
-    * Introduction to Statistical Inference
-    * Introduction to Probability Theory
-    * Statistical Graphics and Visualization
-    * Statistical Computing
-    * Sampling, Survey, and Society
-    * Methods for Statistics & Data Science
-    * Applied Quantitative Social Science I & II
+    * Modern Casual Inference
+    * Statistics for Engineers
+    * Statistical Modelling and Analysis
+    * Biostatistics
+  
   * **Machine Learning:**
     * Probabilistic Graphical Models 
     * Convex Optimization
@@ -40,18 +36,31 @@ GPA: 3.87/4.00, University Honors
     * PhD Introduction to Machine Learning
     * Natural Language Processing
     * Intermediate Deep Learning
-    * Machine Learning in Practice
-    * Introduction to Machine Learning
+    * Introduction to Deep Learning
+    * Deep Reinforcement Learning and Control
+    
   * **Computer Science:**
-    * Introduction to Computer Systems
-    * Algorithms and Advanced Data Structures
-    * Parallel and Sequential Data Structures and Algorithms
-    * Principles of Functional Programming
-    * Principles of Imperative Computing
+    * Object-orineted Programming
+    * Introdcution to Python Programming
+    * Introduction to Java Programming
+    
   * **Mathematics:**
-    * Matrices and Linear Transformations
-    * Concepts of Mathematics
-    * Multivariate Analysis
+    * Calculus for Engineers
+    * Linear Algebra
+    * Multivariable Calculus
+
+  * **Bioengineering:**
+    * Protein Engineering and Design
+    * Computational Image Modelling and Analysis
+    * Proteomics
+    * Neurobiology
+    * Cell and Molecular Biology
+    * Biochemistry
+    * Genomics
+    * Microbiology
+    * Immunology
+    * Genetic Engineering
+    * Engineering Physics
 
 
-[Return to Main Page](https://liangeric.github.io)
+[Return to Main Page](https://adritad.github.io)
