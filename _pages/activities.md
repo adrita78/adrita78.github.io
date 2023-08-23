@@ -5,29 +5,36 @@ permalink: /activities/
 author_profile: true
 ---
 
-### [Undergraduate Entrepreneurship Association](https://www.ueacmu.com)
+### Coding Class for Adults 2023
 ------
-Head of Technology and Growth, Director of [CMU Venture Challenge](https://www.cmuvc.com)
+Instructor
 
-August 2019 - December 2021
-  * In charge of leading the technology team to manage the association’s website, program necessary functions for events such as the Carnegie Mellon Venture Challenge, and market the club to potential sponsors as well as the community
-  * Responsible for helping create, coordinate, and acquire funding for the Carnegie Mellon Venture Challenge competition
+May 2023 - June 2023
+  * Volunteered for teaching coding(python programming) to the under-privileged adults.
 
-### [Carnegie Mellon University Computer Science Academy](https://academy.cs.cmu.edu)
+### [Fav Tutor](https://favtutor.com/)
 ------
-Machine Learning Engineer
+Technical Content Writer
 
-January 2021 - March 2021
-  * Used autoencoders and Siamese neural networks for dimensionality reduction on a large number of image data so that the low-dimensional intrinsic structure can be better visualized by students
-  * Responsible for helping create modules on the AI Team related to classification and regression
+October 2021 - December 2021
+  * Served as technical content writer at Fav Tutor. Curated articles on python programming and
+machine learning.
 
-### [Carnegie Mellon University Pre-College](https://www.cmu.edu/pre-college/)
+### Journal Dev IT Services Private Ltd.
 ------
-Point Residential Advisor
+Technical Content Writer
 
-June 2019 - August 2019
-  * Provided supportive counseling for residents and responsible for the safety of all residents
-  * Responsible for coordinating with other residential advisors in the residential dorm and organizing dorm-wide events
+December 2021 - March 2022
+  * Worked as a content writer at JournalDev IT Services Private Ltd. Developed content on data
+science and python programming.
+
+### [Prepfully](https://prepfully.com/)
+------
+Technical Content Writer
+
+March 2022 - December 2022
+  * Worked as technical content writer at prepfully. Curated content on data science and technical
+interview questions.
 
 
-[Return to Main Page](https://liangeric.github.io)
+[Return to Main Page](adrit78.github.io)
