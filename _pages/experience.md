@@ -11,7 +11,7 @@ Research Assistant
 
 May 2023 - Present
   * Building and training models based on language models and graph neural networks to design antibodies against viruses using machine learning.Writing pipelines to process PDB files to extract coordinates and torsion angles for training.
-  * Constructed and optimized BERT-based language models both in supervised and semi-supervised learning frameworks for predicting properties of several short-sequence peptides.(Co- first authorship with Chakradhar G.)[Paper](https://drive.google.com/file/d/1FvpBwEah6IGQ-XkaWoh5FrzDvzxarYj9/view?usp=sharing)
+  * Constructed and optimized BERT-based language models both in supervised and semi-supervised learning frameworks for predicting properties of several short-sequence peptides.(Co- first authorship with Chakradhar G.) [Paper](https://drive.google.com/file/d/1FvpBwEah6IGQ-XkaWoh5FrzDvzxarYj9/view?usp=sharing)
   * Developed and implemented an innovative approach to predict peptide properties by leveraging a combination of advanced machine learning techniques. Integrated Convolutional Graph neural networks(CGCNN) to extract relevant structural features and enrich the predictive model.
   * Applied a novel joint training strategy, incorporating contrastive learning (CLIP or Barlow Twin loss), to leverage both sequence and structural information effectively.Collaborated with interdisciplinary teams to curate and preprocess large-scale peptide datasets, ensuring high-quality input for model training.Demonstrated the success of the approach through comprehensive evaluation and benchmarking against state-of-the-art methods.
 
@@ -65,4 +65,4 @@ June 2019 – October 2019
   * Expanded my knowledge of advanced NMR techniques such as TOCS, COSY and NOESY.Delved into NMR pulse programming which involved designing and implementing precise sequences of radiofrequency pulses to optimize data acquisition and extract maximum
   information from the samples.
 
-[Return to Main Page](https://adritad.github.io)
+[Return to Main Page](https://adrita78.github.io)
