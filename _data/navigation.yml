@@ -6,11 +6,11 @@ main:
   - title: "Experience"
     url: /experience/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Projects"
+    url: /projects/    
     
-  - title: "Activities"
-    url: /activities/
+  - title: "Teching"
+    url: /teaching/
         
   - title: "Projects"
     url: /projects/
