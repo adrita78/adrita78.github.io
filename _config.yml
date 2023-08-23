@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eric Liang"
+title                    : "Adrita Das"
 title_separator          : "-"
-name                     : &name "Eric Liang"
-description              : &description "Carnegie Mellon 2022"
-url                      : https://liangeric.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Adrita Das"
+description              : &description "Carnegie Mellon 2023"
+url                      : https://adrita78.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liangeric/liangeric.github.io"
+repository               : "adrita78/adrita78.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eric Liang"
+  name             : "Adrita Das"
   avatar           : "Liangprofile_new.jpg"
-  bio              : "Carnegie Mellon 2022, MS in Machine Learning"
+  bio              : "Carnegie Mellon 2023, MS in Bioengineering, Minor in Machine Learning"
   location         : "Pittsburgh, Pennsylvania"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "liangeric321@gmail.com"
+  googlescholar    : https://scholar.google.com/citations?user=R6EtfNEAAAAJ&hl=en
+  email            : "adritad@andrew.cmu.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "liangeric"
+  github           : "adrita78"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "liangeric321"
+  linkedin         : "adrita-das-6b05a615a"
   orcid            : 
   pinterest        :
   soundcloud       :
