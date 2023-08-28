@@ -15,7 +15,7 @@ The neccessary code and the datasets cannot be shared at this time.
 
 ------
 ### [Unsupervised speech recognition with GANs](https://github.com/adrita78/Unsupervised-Speech-Recognition-with-GANs)
-Replicated the work of [2021 paper](https://arxiv.org/abs/2105.11084) " Unsupervised Speech Recognition" and the aim was to develop a method to train speech recognition mdoels without using any labeled data. Learnt how to train and implement GAN from scratch.
+Replicated the work of [2021 paper](https://arxiv.org/abs/2105.11084) " Unsupervised Speech Recognition" where the aim was to develop a method to train speech recognition mdoels without using any labeled data. Learnt how to train and implement GAN from scratch.
 
 ------
 
