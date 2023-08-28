@@ -19,8 +19,6 @@ Bachelor of Technology, Major in Bioengineering, Minor in Computer Science
 
 GPA: 7.84/10.00
 
-[Quantitative Social Science Scholars Honors Program](https://www.cmu.edu/dietrich/qsss/)
-
 ### Relevant Coursework
   * **Statistics and Data Science:**
     * Probability and Mathematical Statistics
