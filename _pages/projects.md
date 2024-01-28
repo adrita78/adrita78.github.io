@@ -29,7 +29,7 @@ Implemented RNNs and the dynamic programming algorithm, Connectionist Temporal C
 ### [Face Classification and Verification using CNN](https://github.com/adrita78/Face-Classification-and-Verification-Using-CNN)
 In this kaggle challenge, worked on implementing pattern recognition problems that require
 position invariance. Specifically on the problem of recognizing or verifying faces in images.
-Ranked among the top 10% of the competition.[Kaggle Link](https://www.kaggle.com/competitions/11-785-s23-hw2p2-classification-slackkaggle)
+Ranked among the top 10% of the competition. [Kaggle Link](https://www.kaggle.com/competitions/11-785-s23-hw2p2-classification-slackkaggle)
 
 ------
 
