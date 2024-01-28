@@ -8,12 +8,6 @@ redirect_from:
 ---
 
 ------
-### [Generative AI Innovation Incubator](https://genaihackathon2023.github.io/)
-Created a AI-driven drug discovery platform to accelerate the process of designing novel proteins that target tau protein. Our platform allows users to select a target protein, specify the desired properties , and choose from a variety of models to generate a novel sequence. The platform also provides real-time feedback on the performance of the generated sequences, including binding affinity, inhibitory properties, and novelty. We implemented several protein language-based models such as ESM-2 with an MLM Head and PROTGPT-2 to generate novel protein sequences. We also integrated AlphaFold pipeline in our platform for structure prediction from the generated sequences. Our platform also integrates DiffDock-PP to give predictions of possible binding configurations of the generated protein and the target protein. During the course of the hackathon, learnt how to use low-rank adaptation(LoRA) and parameter-efficient fine-tuning on clusters.  You can access the [Demo](https://clipchamp.com/watch/nschsVQ73P9) of our AI-driven platform, [Spotlight Session](https://youtu.be/654AVnVMLSk) and the [Final Presentation](https://docs.google.com/presentation/d/1SZF_sHiSlgAyBjVo1vCuMbv0gwk9FFQvd91tXtiwHD8/edit?usp=sharing) for the Hackathon.
-
-The neccessary code and the datasets cannot be shared at this time.
-
-------
 ### [Unsupervised speech recognition with GANs](https://github.com/adrita78/Unsupervised-Speech-Recognition-with-GANs)
 Replicated the work of [2021 paper](https://arxiv.org/abs/2105.11084) " Unsupervised Speech Recognition" where the aim was to develop a method to train speech recognition mdoels without using any labeled data. Learnt how to train and implement GAN from scratch.
 
@@ -21,12 +15,6 @@ Replicated the work of [2021 paper](https://arxiv.org/abs/2105.11084) " Unsuperv
 
 ### [Attention-based End-to-End Speech-to-Text Deep Neural Network](https://github.com/adrita78/Speech-to-text-Deep-Neural-Network)
 Implemented an attention-based system to solve a sequence-to-sequence problem.
-
-------
-
-### [A-Domain Specificity Prediction](https://github.com/adrita78/A-Domain-Specificity)
-Trained a PROTBERT-based and an LSTM-based model for sequence classification and predicting A-domain
-specificity of the given amino acid sequences.
 
 ------
 ### [Few-shot Object Detection in Valorant-a first-person Game](https://github.com/adrita78/fsod-valorant)
