@@ -17,10 +17,14 @@ Overview: This project focuses on re-implementing and enhancing the Generative A
 ------
 
 ### [Attention-based End-to-End Speech-to-Text Deep Neural Network](https://github.com/adrita78/Speech-to-text-Deep-Neural-Network)
+
+![Attention Figure](https://github.com/adrita78/adrita78.github.io/blob/master/images/attention.png)
 Implemented an attention-based system to solve a sequence-to-sequence problem.
 
 ------
 ### [Few-shot Object Detection in Valorant-a first-person Game](https://github.com/adrita78/fsod-valorant)
+
+
 In this project, we applied few-shot object detection methods in Valorant, a first-person game set
 in a three dimensional environment developed and published by Riot Games. [Report]
 
