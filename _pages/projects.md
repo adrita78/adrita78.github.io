@@ -33,11 +33,6 @@ Ranked among the top 10% of the competition. [Kaggle Link](https://www.kaggle.co
 
 ------
 
-### [Frame-level Speech Recognition](https://github.com/adrita78/Frame-Level-Speech-Recognition)
-Implemented a multilayer perceptron for frame-level speech recognition. 
-
-------
-
 ### [Image Registration in Medical Imaging using CNN](https://github.com/adrita78/4264-Image-Based-Computational-Modelling-and-Analysis)
 Implemented a keypoint-based geometric network for the registration of medical images with dense deformations.[Report](https://drive.google.com/file/d/117E3J5J2_55Rfj6UVVnD7IREMEeq6m6s/view)
 
