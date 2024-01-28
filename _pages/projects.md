@@ -21,7 +21,7 @@ Implemented an attention-based system to solve a sequence-to-sequence problem.
 In this project, we applied few-shot object detection methods in Valorant, a first-person game set
 in a three dimensional environment developed and published by Riot Games. [Report]
 
-------
+------ 
 ### [Speech Recognition by Predicting Phonemes](https://github.com/adrita78/Speeche-Recognition-by-Predicting-Phonemes)
 Implemented RNNs and the dynamic programming algorithm, Connectionist Temporal Classification, to generate labels.
 
