@@ -10,19 +10,11 @@ redirect_from:
 ------
 ### [Wav2Vec-U: Unsupervised Speech Recognition with GANs : Ablation Study](https://github.com/adrita78/Unsupervised-Speech-Recognition-with-GANs)
 
-![Project Image](https://github.com/adrita78/adrita78.github.io/blob/master/images/adrita_das.jpg)
-
-
-
-
 Overview: This project focuses on re-implementing and enhancing the Generative Adversarial Network (GAN)-based unsupervised model for speech recognition, named wav2vec-U. The method introduces a novel approach to train speech recognition models without labeled data.
 
 ------
 
 ### [Attention-based End-to-End Speech-to-Text Deep Neural Network](https://github.com/adrita78/Speech-to-text-Deep-Neural-Network)
-
-![Attention Figure](https://raw.githubusercontent.com/adrita78/adrita78.github.io/blob/master/images/attention.png)
-
 
 Implemented an attention-based system to solve a sequence-to-sequence problem.
 
