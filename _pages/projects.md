@@ -18,14 +18,15 @@ Skills: Generative Adversarial Networks (GANs) · PyTorch · Fairseq · Variatio
 
 ### [Attention-based End-to-End Speech-to-Text Deep Neural Network](https://github.com/adrita78/Speech-to-text-Deep-Neural-Network)
 
-Implemented an attention-based system to solve a sequence-to-sequence problem.
+Learnt to build an encoder to effectively extract features from a speech signal, constructed a decoder that can sequentially spell out the transcription of the audio, and implemented an attention mechanism between the decoder and the encoder.Learnt to build an encoder to effectively extract features from a speech signal, constructed a decoder that can sequentially spell out the transcription of the audio, and implemented an attention mechanism between the decoder and the encoder. Worked on improving the performance of the baseline LAS (Listen, Attend, Spell) model.   [Report](https://drive.google.com/file/d/1OmzcKwkF1UczOKbEPZHYJKfoLb8iL59m/view?usp=sharing)  [Code](https://github.com/adrita78/Attention-Based-Speech-Recognition)
+
+Skills: Attention Mechanism · Teacher Forcing · Beam Search
 
 ------
 ### [Few-shot Object Detection in Valorant-a first-person Game](https://github.com/adrita78/fsod-valorant)
 
-
-In this project, we applied few-shot object detection methods in Valorant, a first-person game set
-in a three dimensional environment developed and published by Riot Games. [Report]
+This project addresses the issue by introducing few-shot object detection methods tailored for Valorant, a three-dimensional first-person game by Riot Games. Given the ever-evolving nature of game content, our objective is to develop a detector capable of adapting swiftly to new categories with limited training data, while capitalizing on knowledge acquired from a well-annotated base set. The proposed approach involves fine-tuning a pre-trained Faster-RCNN object detector with 20 images from 10 distinct Valorant characters. Three training methods are explored: training with no frozen layers, training with all frozen layers except the last, and a novel method named Multiplicative Layer-wise Learning Rates (MLLR). Our findings reveal that the MLLR method outperforms the other two approaches on the custom dataset.This project addresses the issue by introducing few-shot object detection methods tailored for Valorant, a three-dimensional first-person game by Riot Games. Given the ever-evolving nature of game content, our objective is to develop a detector capable of adapting swiftly to new categories with limited training data, while capitalizing on knowledge acquired from a well-annotated base set. The proposed approach involves fine-tuning a pre-trained Faster-RCNN object detector with 20 images from 10 distinct Valorant characters. Three training methods are explored: training with no frozen layers, training with all frozen layers except the last, and a novel method named Multiplicative Layer-wise Learning Rates (MLLR). Our findings reveal that the MLLR method outperforms the other two approaches on the custom dataset.  [Report](https://drive.google.com/file/d/19mZz_JX1_NlbkphF0zg_f5CHRqmUfxPI/view?usp=sharing)
+Skills: Computer Vision · Few-shot Object Detection · Google Cloud Platform (GCP) · Version Control
 
 ------ 
 ### [Speech Recognition by Predicting Phonemes](https://github.com/adrita78/Speeche-Recognition-by-Predicting-Phonemes)
