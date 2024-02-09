@@ -41,6 +41,7 @@ GPA: 7.84/10.00
     * Object-orineted Programming
     * Introdcution to Python Programming
     * Introduction to Java Programming
+    * Algorithms in the real world
     
   * **Mathematics:**
     * Calculus for Engineers
