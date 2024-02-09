@@ -10,6 +10,7 @@ author_profile: true
 Research Assistant
 
 Aug 2022 - Present
+
 **Project1/Master’s Thesis:**
 Predicting Interactions in Heterodimeric Complexes using Multimodal Data Integration: Integrating
 GeomEtry-Aware Relational Graph Neural Network (GearNet)and Language Models in a Supervised Framework, with Self-supervised Insights. 
