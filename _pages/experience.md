@@ -25,7 +25,7 @@ optimization, integrating adaptive exploration techniques to balance and optimiz
 
 **Project 3:**
 Peptide Property prediction of short-length peptides using GNNs and PeptideBERT.
-The purpose of the project was to develop and fine-tune PeptideBERT, a state-of-the-art protein language model based on Transformers,specifically designed for predicting important properties of peptides. PeptideBERT was trained using ProtBERT, a pre-trained transformer model specialized for protein sequences.  Published a [paper](https://pubs.acs.org/doi/epdf/10.1021/acs.jpclett.3c02398)
+The purpose of the project was to develop and fine-tune PeptideBERT, a state-of-the-art protein language model based on Transformers,specifically designed for predicting important properties of peptides. PeptideBERT was trained using ProtBERT, a pre-trained transformer model specialized for protein sequences.  Published a [paper](https://pubs.acs.org/doi/epdf/10.1021/acs.jpclett.3c02398).
 
 The purpose of the second part of the project is to develop a robust framework for predicting properties of short-length peptides by leveraging advanced techniques from graph neural networks (GNNs) and protein language models. Specifically, the project utilizes the fine-tuned PeptideBERT and a Geometry-Aware Relational Graph Neural Network as encoders to capture both sequence and structural information of peptides.
 
