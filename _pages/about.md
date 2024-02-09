@@ -11,7 +11,7 @@ redirect_from:
 
 I'm Adrita, a master's student at Carnegie Mellon University pursuing a Master's in Bioengineering and Machine Learning. I previously received my Bachelor's in Bioengineering with a minor in Computer Science. During the school year, I am in Pittsburgh, Pennsylvania, but I am originally from India. I am broadly interetsed in the field of Drug Discovery and AI.
 
-Feel free to explore my projects and blog posts. If you share similar interests or have exciting ideas to discuss, don't hesitate to reach out via email. Let's collaborate and create something amazing together!
+Feel free to explore my projects and technical blogs. If you share similar interests or have exciting ideas to discuss, don't hesitate to reach out via email. Let's collaborate and create something amazing together!
 
 Areas of Interest
 ------
