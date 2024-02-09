@@ -10,7 +10,9 @@ redirect_from:
 ------
 ### [Wav2Vec-U: Unsupervised Speech Recognition with GANs : Ablation Study](https://github.com/adrita78/Unsupervised-Speech-Recognition-with-GANs)
 
-Replicated the 2021 paper "Unsupervised Speech Recognition", which developed a method to train speech recognition models without labeled data, focusing on GANs and Autoencoders. Worked on improving the baseline performance of the model.Replicated the 2021 paper "Unsupervised Speech Recognition", which developed a method to train speech recognition models without labeled data, focusing on GANs and Autoencoders. Performed experiments to improve the baseline performance. Achieved a Levenshtein distance of 20.12 on the test dataset.  [Report](https://drive.google.com/file/d/1kH-VyKwriyjsbyuheoZ4Qu6alnPl0MPW/view?usp=sharing)    [Code](https://github.com/adrita78/Unsupervised-Speech-Recognition-with-GANs)
+Replicated the 2021 paper "Unsupervised Speech Recognition", which developed a method to train speech recognition models without labeled data, focusing on GANs and Autoencoders. Worked on improving the baseline performance of the model.Replicated the 2021 paper "Unsupervised Speech Recognition", which developed a method to train speech recognition models without labeled data, focusing on GANs and Autoencoders. Performed experiments to improve the baseline performance. Achieved a Levenshtein distance of 20.12 on the test dataset.  
+
+[Report](https://drive.google.com/file/d/1kH-VyKwriyjsbyuheoZ4Qu6alnPl0MPW/view?usp=sharing)    [Code](https://github.com/adrita78/Unsupervised-Speech-Recognition-with-GANs)
 
 Skills: Generative Adversarial Networks (GANs) · PyTorch · Fairseq · Variational Autoencoders (VAEs) · Speech Recognition
 
@@ -18,7 +20,9 @@ Skills: Generative Adversarial Networks (GANs) · PyTorch · Fairseq · Variatio
 
 ### [Attention-based End-to-End Speech-to-Text Deep Neural Network](https://github.com/adrita78/Speech-to-text-Deep-Neural-Network)
 
-Learnt to build an encoder to effectively extract features from a speech signal, constructed a decoder that can sequentially spell out the transcription of the audio, and implemented an attention mechanism between the decoder and the encoder.Learnt to build an encoder to effectively extract features from a speech signal, constructed a decoder that can sequentially spell out the transcription of the audio, and implemented an attention mechanism between the decoder and the encoder. Worked on improving the performance of the baseline LAS (Listen, Attend, Spell) model.   [Report](https://drive.google.com/file/d/1OmzcKwkF1UczOKbEPZHYJKfoLb8iL59m/view?usp=sharing)  [Code](https://github.com/adrita78/Attention-Based-Speech-Recognition)
+Learnt to build an encoder to effectively extract features from a speech signal, constructed a decoder that can sequentially spell out the transcription of the audio, and implemented an attention mechanism between the decoder and the encoder.Learnt to build an encoder to effectively extract features from a speech signal, constructed a decoder that can sequentially spell out the transcription of the audio, and implemented an attention mechanism between the decoder and the encoder. Worked on improving the performance of the baseline LAS (Listen, Attend, Spell) model.   
+
+[Report](https://drive.google.com/file/d/1OmzcKwkF1UczOKbEPZHYJKfoLb8iL59m/view?usp=sharing)  [Code](https://github.com/adrita78/Attention-Based-Speech-Recognition)
 
 Skills: Attention Mechanism · Teacher Forcing · Beam Search
 
@@ -43,7 +47,9 @@ Ranked among the top 10% of the competition.   [Kaggle ](https://www.kaggle.com/
 ------
 
 ### [Image Registration in Medical Imaging using CNN](https://github.com/adrita78/4264-Image-Based-Computational-Modelling-and-Analysis)
-The project is designed to find and understand ways that deep learning is utilized to help and improve image registration, specifically for medical imaging. Medical imaging is a great tool for getting information about the inside of the body, both in structure and function. I believe that some of the main areas of improvement that are constantly being researched in this field include quality and usefulness of the images obtained. This also expands to 3D modeling, registration, segmentation, and other methods to gain more information about the patient.The project is designed to find and understand ways that deep learning is utilized to help and improve image registration, specifically for medical imaging. Medical imaging is a great tool for getting information about the inside of the body, both in structure and function. I believe that some of the main areas of improvement that are constantly being researched in this field include quality and usefulness of the images obtained. This also expands to 3D modeling, registration, segmentation, and other methods to gain more information about the patient.    [Report](https://drive.google.com/file/d/1xRpZ_BW0ri99ZgEetEsZ4nYFrl-nrEur/view?usp=sharing)   [Code](https://github.com/adrita78/4264-Image-Based-Computational-Modeling-and-Analysis)
+The project is designed to find and understand ways that deep learning is utilized to help and improve image registration, specifically for medical imaging. Medical imaging is a great tool for getting information about the inside of the body, both in structure and function. I believe that some of the main areas of improvement that are constantly being researched in this field include quality and usefulness of the images obtained. This also expands to 3D modeling, registration, segmentation, and other methods to gain more information about the patient.The project is designed to find and understand ways that deep learning is utilized to help and improve image registration, specifically for medical imaging. Medical imaging is a great tool for getting information about the inside of the body, both in structure and function. I believe that some of the main areas of improvement that are constantly being researched in this field include quality and usefulness of the images obtained. This also expands to 3D modeling, registration, segmentation, and other methods to gain more information about the patient.    
+
+[Report](https://drive.google.com/file/d/1xRpZ_BW0ri99ZgEetEsZ4nYFrl-nrEur/view?usp=sharing)   [Code](https://github.com/adrita78/4264-Image-Based-Computational-Modeling-and-Analysis)
 
 Skills: Image Processing · Computation Modeling
 
