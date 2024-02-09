@@ -25,6 +25,9 @@ The purpose of the project was to develop and fine-tune PeptideBERT, a state-of-
 The purpose of the second part of the project is to develop a robust framework for predicting properties of short-length peptides by leveraging advanced techniques from graph neural networks (GNNs) and protein language models. Specifically, the project utilizes the fine-tuned PeptideBERT and a Geometry-Aware Relational Graph Neural Network as encoders to capture both sequence and structural information of peptides.
 
 ### Generative AI Innovation Incubator, Carnegie Mellon University
+
+Aug 2023- Present
+
 Application of encoder-only models for the design of inhibitor sequences, followed by their optimization through Adaptive Exploration in Multi-Objective Thompson Sampling-Guided Directed Evolution.
 
 Description: Implementing Thompson Sampling-guided Directed Evolution (TS-DE) framework for multi-objective protein sequence
@@ -65,7 +68,7 @@ June 2019 – October 2019
   characterization of the films.
   * Different tests and measurements were being performed for the films including contact angle
   measurements, blood compatibility tests,platelet adhesion tests and MTS Assay. The results of
-  the MTS assay were being analyzed one-way ANOVA.
+  the MTS assay were being analyzed one-way ANOVA. Published a [paper](https://link.springer.com/article/10.1007/s40204-020-00146-z).
 
 ### Molecular Biophysics Unit, Indian Institute of Science
 Undergraduate Summer Research Assistant
