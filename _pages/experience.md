@@ -15,7 +15,7 @@ Aug 2022 - Present
 Predicting Interactions in Heterodimeric Complexes using Multimodal Data Integration: Integrating
 GeomEtry-Aware Relational Graph Neural Network (GearNet)and Language Models in a Supervised Framework, with Self-supervised Insights. 
 
-The project aims to advance the understanding of protein/subunit interactions within heterodimeric complexes by leveraging multimodal data integration and state-of-the-art machine learning techniques. By predicting interactions between protein residues, the project seeks to understand the underlying biological mechanisms governing complex formation, which could have significant implications for drug discovery and therapeutic interventions. Co-author paper currently in preparation for submission to NeurIPS 2024. [Report]
+The project aims to advance the understanding of protein/subunit interactions within heterodimeric complexes by leveraging multimodal data integration and state-of-the-art machine learning techniques. By predicting interactions between protein residues, the project seeks to understand the underlying biological mechanisms governing complex formation, which could have significant implications for drug discovery and therapeutic interventions. Co-author paper currently in preparation for submission to NeurIPS 2024.  [Report]
 
 **Project 2:**
 Application of encoder-only models for the design of inhibitor sequences, followed by their optimization through Adaptive Exploration in Multi-Objective Thompson Sampling-Guided Directed Evolution.
@@ -25,7 +25,7 @@ optimization, integrating adaptive exploration techniques to balance and optimiz
 
 **Project 3:**
 Peptide Property prediction of short-length peptides using GNNs and PeptideBERT.
-The purpose of the project was to develop and fine-tune PeptideBERT, a state-of-the-art protein language model based on Transformers,specifically designed for predicting important properties of peptides. PeptideBERT was trained using ProtBERT, a pre-trained transformer model specialized for protein sequences. [Paper](https://pubs.acs.org/doi/epdf/10.1021/acs.jpclett.3c02398)
+The purpose of the project was to develop and fine-tune PeptideBERT, a state-of-the-art protein language model based on Transformers,specifically designed for predicting important properties of peptides. PeptideBERT was trained using ProtBERT, a pre-trained transformer model specialized for protein sequences.  Published a [paper](https://pubs.acs.org/doi/epdf/10.1021/acs.jpclett.3c02398)
 
 The purpose of the second part of the project is to develop a robust framework for predicting properties of short-length peptides by leveraging advanced techniques from graph neural networks (GNNs) and protein language models. Specifically, the project utilizes the fine-tuned PeptideBERT and a Geometry-Aware Relational Graph Neural Network as encoders to capture both sequence and structural information of peptides.
 
