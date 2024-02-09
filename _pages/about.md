@@ -24,7 +24,7 @@ I have a passion for consolidating my learnings, and one way I channel this enth
 ### [Different Generative Models for Graph-based Protein Design](https://example.com/blog_post_1)
 In this blog post, I provide an introduction to geometric deep learning and its applications in molecular design and structure prediction.
 
-### [Protein Language Modeling: A Deep Dive](https://example.com/blog_post_2)
+### [LoRA for Protein Language Modeling](https://example.com/blog_post_2)
 Explore the world of protein language modeling in this comprehensive blog post where I discuss the latest advancements and challenges in the field.
 
 ### [Molecular Dynamics Simulation: Fundamentals and Applications](https://example.com/blog_post_3)
