@@ -27,6 +27,7 @@ Skills: Attention Mechanism · Teacher Forcing · Beam Search
 
 This project addresses the issue by introducing few-shot object detection methods tailored for Valorant, a three-dimensional first-person game by Riot Games. Given the ever-evolving nature of game content, our objective is to develop a detector capable of adapting swiftly to new categories with limited training data, while capitalizing on knowledge acquired from a well-annotated base set. The proposed approach involves fine-tuning a pre-trained Faster-RCNN object detector with 20 images from 10 distinct Valorant characters. Three training methods are explored: training with no frozen layers, training with all frozen layers except the last, and a novel method named Multiplicative Layer-wise Learning Rates (MLLR). Our findings reveal that the MLLR method outperforms the other two approaches on the custom dataset.This project addresses the issue by introducing few-shot object detection methods tailored for Valorant, a three-dimensional first-person game by Riot Games. Given the ever-evolving nature of game content, our objective is to develop a detector capable of adapting swiftly to new categories with limited training data, while capitalizing on knowledge acquired from a well-annotated base set. The proposed approach involves fine-tuning a pre-trained Faster-RCNN object detector with 20 images from 10 distinct Valorant characters. Three training methods are explored: training with no frozen layers, training with all frozen layers except the last, and a novel method named Multiplicative Layer-wise Learning Rates (MLLR). Our findings reveal that the MLLR method outperforms the other two approaches on the custom dataset.   
 [Report](https://drive.google.com/file/d/19mZz_JX1_NlbkphF0zg_f5CHRqmUfxPI/view?usp=sharing)
+
 Skills: Computer Vision · Few-shot Object Detection · Google Cloud Platform (GCP) · Version Control
 
 ------ 
@@ -37,18 +38,22 @@ Implemented RNNs and the dynamic programming algorithm, Connectionist Temporal C
 ### [Face Classification and Verification using CNN](https://github.com/adrita78/Face-Classification-and-Verification-Using-CNN)
 In this kaggle challenge, worked on implementing pattern recognition problems that require
 position invariance. Specifically on the problem of recognizing or verifying faces in images.
-Ranked among the top 10% of the competition. [Kaggle Link](https://www.kaggle.com/competitions/11-785-s23-hw2p2-classification-slackkaggle)
+Ranked among the top 10% of the competition.   [Kaggle ](https://www.kaggle.com/competitions/11-785-s23-hw2p2-classification-slackkaggle)
 
 ------
 
 ### [Image Registration in Medical Imaging using CNN](https://github.com/adrita78/4264-Image-Based-Computational-Modelling-and-Analysis)
-Implemented a keypoint-based geometric network for the registration of medical images with dense deformations.[Report](https://drive.google.com/file/d/117E3J5J2_55Rfj6UVVnD7IREMEeq6m6s/view)
+The project is designed to find and understand ways that deep learning is utilized to help and improve image registration, specifically for medical imaging. Medical imaging is a great tool for getting information about the inside of the body, both in structure and function. I believe that some of the main areas of improvement that are constantly being researched in this field include quality and usefulness of the images obtained. This also expands to 3D modeling, registration, segmentation, and other methods to gain more information about the patient.The project is designed to find and understand ways that deep learning is utilized to help and improve image registration, specifically for medical imaging. Medical imaging is a great tool for getting information about the inside of the body, both in structure and function. I believe that some of the main areas of improvement that are constantly being researched in this field include quality and usefulness of the images obtained. This also expands to 3D modeling, registration, segmentation, and other methods to gain more information about the patient.    [Report](https://drive.google.com/file/d/1xRpZ_BW0ri99ZgEetEsZ4nYFrl-nrEur/view?usp=sharing)   [Code](https://github.com/adrita78/4264-Image-Based-Computational-Modeling-and-Analysis)
+
+Skills: Image Processing · Computation Modeling
 
 ------
 
 ### [Disease Modelling and Analysis of Meningitis](https://github.com/adrita78/Disease-Modelling-and-Analysis-of-Meningitis)
 Presented and implemented a summary of different computational approaches aimed at describing and modeling the effect of different factors on mortality rate of meningitis around the
-world.[Slides](https://docs.google.com/presentation/d/1YtQLfYZeEgAFzcVZtUECufzDrtFXN_qMf2x3PUgEyH4/edit#slide=id.g19ed4225715_0_88)
+world.
+
+[Slides](https://docs.google.com/presentation/d/1YtQLfYZeEgAFzcVZtUECufzDrtFXN_qMf2x3PUgEyH4/edit#slide=id.g19ed4225715_0_88)
 
 ------
 
@@ -58,8 +63,8 @@ Implemented several game theory models to explain the neuroscience of decision m
 ------
 
 ### [Phylogenetic Relationship of Conserved and Non-Conserved Proteins across Model Organisms](https://github.com/adr780/Protein-E/blob/main/PED%20PROJECT.pdf)
-This project was designed to provide the idea on how the sequence of proteins and structures
-have changed overtime and adapted to the environment.
+
+This study compares both structures and sequences of one conserved and one non-conserved protein different species across a broad range of phylogeny. Histone protein responsible for DNA packaging is the subject of the study. Histones H1 and H4 are considered as most and least conserved among all histone proteins respectively. This study also provides an idea on how the sequence of protein and their structures have changed over time and adapted to the environment.
 
 ------
 
