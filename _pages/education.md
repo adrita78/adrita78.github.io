@@ -10,7 +10,7 @@ August 2022 - December 2023
 
 Master of Science, Bioengineering, Machine Learning
 
-GPA: 3.20/4.00
+GPA: 3.25/4.00
 
 ### Carnegie Mellon University
 July 2017 - July 2021
