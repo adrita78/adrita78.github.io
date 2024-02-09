@@ -38,7 +38,7 @@ Graduate Student Researcher
 
 August 2022 - April 2023
   * Applied various shallow machine learning models to understand the dynamics of trans-membrane
-  proteins such as GPCRS. Performed the simulation of GPCRs using OpenMM and VMD  and RL and
+  proteins such as GPCRS. Performed the MD simulation of GPCRs using OpenMM and VMD  and RL and
   automated it with the machine learning model.
 
 ### Molecular Chemistry Lab, Vellore Institute of Technology
