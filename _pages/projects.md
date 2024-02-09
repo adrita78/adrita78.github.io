@@ -10,7 +10,9 @@ redirect_from:
 ------
 ### [Wav2Vec-U: Unsupervised Speech Recognition with GANs : Ablation Study](https://github.com/adrita78/Unsupervised-Speech-Recognition-with-GANs)
 
-Overview: This project focuses on re-implementing and enhancing the Generative Adversarial Network (GAN)-based unsupervised model for speech recognition, named wav2vec-U. The method introduces a novel approach to train speech recognition models without labeled data.
+Replicated the 2021 paper "Unsupervised Speech Recognition", which developed a method to train speech recognition models without labeled data, focusing on GANs and Autoencoders. Worked on improving the baseline performance of the model.Replicated the 2021 paper "Unsupervised Speech Recognition", which developed a method to train speech recognition models without labeled data, focusing on GANs and Autoencoders. Performed experiments to improve the baseline performance. Achieved a Levenshtein distance of 20.12 on the test dataset.  [Report](https://drive.google.com/file/d/1kH-VyKwriyjsbyuheoZ4Qu6alnPl0MPW/view?usp=sharing)  [Code](https://github.com/adrita78/Unsupervised-Speech-Recognition-with-GANs)
+
+Skills: Generative Adversarial Networks (GANs) · PyTorch · Fairseq · Variational Autoencoders (VAEs) · Speech Recognition
 
 ------
 
