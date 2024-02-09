@@ -21,7 +21,7 @@ Python, R, C++, C, Java, MATLAB
 ## Technical Blogs
 I have a passion for consolidating my learnings, and one way I channel this enthusiasm is by writing blogs and reports on various Math and ML papers. This practice allows me to synthesize and articulate my understanding in a coherent manner, contributing to my continuous learning journey.
 
-### [Different Generative Models for Graph-based Protein Design](https://example.com/blog_post_1)
+### [Generative Models for Graph-based Protein Design: A Review](https://example.com/blog_post_1)
 In this blog post, I provide an introduction to geometric deep learning and its applications in molecular design and structure prediction.
 
 ### [LoRA for Protein Language Modeling](https://example.com/blog_post_2)
