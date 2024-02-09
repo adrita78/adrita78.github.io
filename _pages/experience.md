@@ -84,4 +84,5 @@ June 2019 – October 2019
   information from the samples.
 
 Please do reach out to me through email, if you have any questions about my research. I'd love to talk more!
+
 [Return to Main Page](https://adrita78.github.io)
