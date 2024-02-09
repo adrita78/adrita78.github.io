@@ -4,7 +4,20 @@ title: "Activities"
 permalink: /activities/
 author_profile: true
 ---
+## Reading List
+Here are some books I have read, currently reading, and plan to read:
 
+- **Read:**
+  - [Book Title 1](Link to Book 1): Brief description or comment about the book.
+  - [Book Title 2](Link to Book 2): Brief description or comment about the book.
+  
+- **Currently Reading:**
+  - [Book Title 3](Link to Book 3): Brief description or comment about the book.
+  
+- **To Read:**
+  - [Book Title 4](Link to Book 4): Brief description or comment about the book.
+  - [Book Title 5](Link to Book 5): Brief description or comment about the book.
+    
 ### Coding Class for Adults 2023
 ------
 Instructor
