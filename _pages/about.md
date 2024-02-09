@@ -19,7 +19,7 @@ Click here to learn more about my:
 
 Areas of Interest
 ------
-Generative AI, Reinforcement Learning (RL), Natural Language Processing (NLP), Multi-Modal Learning, Bayesian Learning, Theoretical ML
+Geometric Deep Learning for Molecular Design and Structure Prediction, Protein Language Modeling and Molecular Simulation
 
 What Languages Do I Use?
 ------
