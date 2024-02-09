@@ -34,7 +34,7 @@ Click here to learn more about my:
   * [Education and Coursework](https://adrita78.github.io/education/)
   * [Research Experience](https://adrita78.github.io/experience/)
   * [Projects](https://adrita78.github.io/projects/)
-  * [Teaching Experience](https://adrita78.github.io/teaching/)
+  * [Teaching and Mentorship](https://adrita78.github.io/teaching/)
   * [Activities](https://adrita78.github.io/activities/)
 
 Contact Me!
