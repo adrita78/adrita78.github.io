@@ -83,4 +83,5 @@ June 2019 – October 2019
   * Expanded my knowledge of advanced NMR techniques such as TOCS, COSY and NOESY.Delved into NMR pulse programming which involved designing and implementing precise sequences of radiofrequency pulses to optimize data acquisition and extract maximum
   information from the samples.
 
+Please do reach out to me through email, if you have any questions about my research. I'd love to talk more!
 [Return to Main Page](https://adrita78.github.io)
