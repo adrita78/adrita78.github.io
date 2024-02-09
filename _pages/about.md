@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the front page of my website! 
 🔍 Life's beauty lies in its molecular intricacies, where every bond and fold tells a story of evolution's artistry.🔍
 
 
