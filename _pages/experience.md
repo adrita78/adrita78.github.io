@@ -8,7 +8,6 @@ author_profile: true
 ------
 ### MAIL LAB, Carnegie Mellon University
 Research Assistant
-
 Aug 2022 - Present
 
 **Project1/Master’s Thesis:**
