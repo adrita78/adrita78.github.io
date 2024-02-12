@@ -14,7 +14,7 @@ Aug 2022 - Present
 Predicting Interactions in Heterodimeric Complexes using Multimodal Data Integration: Integrating
 GeomEtry-Aware Relational Graph Neural Network (GearNet)and Language Models in a Supervised Framework, with Self-supervised Insights. 
 
-The project aims to advance the understanding of protein/subunit interactions within heterodimeric complexes by leveraging multimodal data integration and state-of-the-art machine learning techniques. By predicting interactions between protein residues, the project seeks to understand the underlying biological mechanisms governing complex formation, which could have significant implications for drug discovery and therapeutic interventions. Co-author paper currently in preparation for submission to NeurIPS 2024.  [Report](https://drive.google.com/file/d/11Z-oytL9sAVpyiFcUbosuDXmeH6r4PDH/view?usp=sharing)
+The project aims to advance the understanding of protein/subunit interactions within heterodimeric complexes by leveraging multimodal data integration and state-of-the-art machine learning techniques. By predicting interactions between protein residues, the project seeks to understand the underlying biological mechanisms governing complex formation, which could have significant implications for drug discovery and therapeutic interventions. Co-author paper currently in preparation for submission to NeurIPS 2024.   [Report](https://drive.google.com/file/d/11Z-oytL9sAVpyiFcUbosuDXmeH6r4PDH/view?usp=sharing) 
 
 **Project 2:**
 Peptide Property prediction of short-length peptides using GNNs and PeptideBERT.
