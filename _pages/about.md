@@ -24,13 +24,13 @@ Python, R, C++, C, Java, MATLAB, CUDA
 ## Technical Blogs
 I have a passion for consolidating my learnings, and one way I channel this enthusiasm is by writing blogs and reports on various Math and ML papers. This practice allows me to synthesize and articulate my understanding in a coherent manner, contributing to my continuous learning journey.
 
-### [Generative Models for Graph-based Protein Design: A Review](https://example.com/blog_post_1)
+### [Scalable Graph Transformers: A Review](https://example.com/blog_post_1)
 In this blog post, I provide an introduction to geometric deep learning and its applications in molecular design and structure prediction.
 
-### [LoRA for Protein Language Modeling](https://example.com/blog_post_2)
+### [A new Perspective for Diffusion: A Review](https://example.com/blog_post_2)
 Explore the world of protein language modeling in this comprehensive blog post where I discuss the latest advancements and challenges in the field.
 
-### [Molecular Dynamics Simulation: Fundamentals and Applications](https://example.com/blog_post_3)
+### [Overview of Transformers: An NLP Perspective](https://example.com/blog_post_3)
 Learn about the fundamentals of molecular dynamics simulation and its applications in drug discovery and molecular modeling.
 
 Click here to learn more about my:
