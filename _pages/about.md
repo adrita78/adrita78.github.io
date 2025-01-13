@@ -19,7 +19,7 @@ ML for Healthcare, Graph Representation Learning
 
 What Languages Do I Use?
 ------
-Python, R, C++, C, Java, MATLAB
+Python, R, C++, C, Java, MATLAB, CUDA
 
 ## Technical Blogs
 I have a passion for consolidating my learnings, and one way I channel this enthusiasm is by writing blogs and reports on various Math and ML papers. This practice allows me to synthesize and articulate my understanding in a coherent manner, contributing to my continuous learning journey.
