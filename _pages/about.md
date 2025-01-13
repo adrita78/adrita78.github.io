@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I'm Adrita, a master's student at Carnegie Mellon University pursuing a Master's in Bioengineering and Machine Learning. I previously received my Bachelor's in Bioengineering with a minor in Computer Science. During the school year, I am in Pittsburgh, Pennsylvania, but I am originally from India. I am broadly interetsed in the field of Drug Discovery and AI.
+I'm Adrita, and recently graduated from Carnegie Mellon University with a Master's Degree in Biomedical Engineering with a focus on AI-ML Research. I'm passionate about using machine learning to drive more equitable decisions in systems like healthcare, public policy, and social services—areas that are often marked by inequality. I believe data-driven methods can improve outcomes and create fairer, more efficient policies, particularly when applied to complex, high-stakes settings.
 
 Feel free to explore my projects and technical blogs. If you share similar interests or have exciting ideas to discuss, don't hesitate to reach out via email. Let's collaborate and create something amazing together!
 
 Areas of Interest
 ------
-Geometric Deep Learning for Molecular Design and Structure Prediction, Protein Language Modeling and Molecular Simulation
+ML for Healthcare, Graph Representation Learning
 
 What Languages Do I Use?
 ------
