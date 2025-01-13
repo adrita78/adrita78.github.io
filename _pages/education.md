@@ -8,20 +8,18 @@ author_profile: true
 ### Carnegie Mellon University
 August 2022 - December 2023
 
-Master of Science, Bioengineering, Machine Learning
+Master of Science, Bioengineering (AI-ML Research)
 
-GPA: 3.25/4.00
 
 ### Carnegie Mellon University
 July 2017 - July 2021
 
-Bachelor of Technology, Major in Bioengineering, Minor in Computer Science
+Bachelor of Technology, Major in Bioengineering
 
 GPA: 7.84/10.00
 
 ### Relevant Coursework
   * **Statistics and Data Science:**
-    * Probability and Mathematical Statistics
     * Modern Casual Inference
     * Statistics for Engineers
     * Statistical Modelling and Analysis
@@ -30,12 +28,8 @@ GPA: 7.84/10.00
   * **Machine Learning:**
     * Probabilistic Graphical Models 
     * Convex Optimization
-    * Graduate Artificial Intelligence
-    * PhD Introduction to Machine Learning
-    * Natural Language Processing
-    * Intermediate Deep Learning
     * Introduction to Deep Learning
-    * Deep Reinforcement Learning and Control
+    * Intermediate Deep Learning
     
   * **Computer Science:**
     * Object-orineted Programming
@@ -45,8 +39,6 @@ GPA: 7.84/10.00
     
   * **Mathematics:**
     * Calculus for Engineers
-    * Linear Algebra
-    * Multivariable Calculus
 
   * **Bioengineering:**
     * Protein Engineering and Design
