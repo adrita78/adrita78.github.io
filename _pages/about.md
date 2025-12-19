@@ -15,9 +15,6 @@ On the systems side, I work on efficient geometric operators and kernels for sci
 
 Feel free to explore my projects and technical blogs. If you share similar interests or have exciting ideas to discuss, don't hesitate to reach out via email. Let's collaborate and create something amazing together!
 
-Areas of Interest
-------
-ML for Healthcare, Graph Representation Learning
 
 What Languages Do I Use?
 ------
