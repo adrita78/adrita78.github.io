@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I am Adrita Das, a researcher working at the intersection of machine learning, AI systems, and biomedicine. My work focuses on developing scalable, theoretically grounded learning architectures with efficient implementations, and applying them to challenging problems in science and health. I am particularly interested in long-context and sequence modeling, especially architectures that replace attention with fast implicit convolutional operators, such as state-space models and Hyena-style architectures. These models offer orders-of-magnitude gains in efficiency while retaining strong representational power, and have demonstrated broad applicability across language, genomics, vision, and scientific data.
 
-I am Adrita Das, a researcher working at the intersection of machine learning, AI systems, and biomedicine. My work focuses on building scalable, principled learning architectures that are grounded in theory and efficient implementation, and applying them to challenging problems in science and health. I am particularly interested in long-context and sequence modeling, especially architectures that replace attention with fast implicit convolutional operators, such as state-space models and Hyena-style architectures. These models offer orders-of-magnitude improvements in efficiency while retaining strong representational power, and have shown promise across language, genomics, vision, and scientific data. My goal is to develop unified modeling frameworks that can reason across molecular, visual, and spatiotemporal data, rather than relying on domain-specific designs. 
+My research goal is to build unified modeling frameworks that can reason across molecular, visual, and spatiotemporal data, rather than relying on domain-specific architectures. On the systems side, I work on efficient geometric operators and kernels for scientific machine learning, with an emphasis on 3D molecular and structural data. I am interested in accelerating equivariant and graph-based models, improving long-range message passing, and enabling large-scale diffusion and generative models for molecular design that respect physical and geometric inductive biases.
 
-On the systems side, I work on efficient geometric operators and kernels for scientific machine learning, with an emphasis on 3D molecular and structural data. I am interested in accelerating equivariant and graph-based models, improving long-range message passing, and enabling large-scale diffusion and generative models for molecular design that respect physical and geometric inductive biases. More broadly, I am excited about biological foundation models and multimodal generative AI trained on genomic, structural, imaging, and single-cell data. I am motivated by the potential of these models to predict, simulate, and design biological states, and to reveal how molecular perturbations propagate to cellular and tissue-level phenotypes.
+More broadly, I am excited about biological foundation models and multimodal generative AI trained on genomic, structural, imaging, and single-cell data. I am motivated by their potential to predict, simulate, and design biological states, and to elucidate how molecular perturbations propagate to cellular and tissue-level phenotypes.
 
 Feel free to explore my projects and technical blogs. If you share similar interests or have exciting ideas to discuss, don't hesitate to reach out via email. Let's collaborate and create something amazing together!
 
@@ -21,7 +22,7 @@ What Languages Do I Use?
 Python, R, C++, C, Java, MATLAB, CUDA
 
 ## Technical Blogs
-I have a passion for consolidating my learnings, and one way I channel this enthusiasm is by writing blogs and reports on various Math and ML papers. This practice allows me to synthesize and articulate my understanding in a coherent manner, contributing to my continuous learning journey.
+I enjoy consolidating my learning by writing blogs and short reports on mathematics and machine learning papers. Writing helps me clarify ideas, connect concepts, and reflect deeply on what I’ve read, making it an important part of how I continue to learn and grow as a researcher.
 
 ### [Scalable Graph Transformers: A Review](https://example.com/blog_post_1)
 In this blog post, I provide an introduction to geometric deep learning and its applications in molecular design and structure prediction.
