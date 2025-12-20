@@ -24,14 +24,9 @@ Python, R, C++, C, Java, MATLAB, CUDA
 ## Technical Blogs
 I enjoy consolidating my learning by writing blogs and short reports on mathematics and machine learning papers. Writing helps me clarify ideas, connect concepts, and reflect deeply on what I’ve read, making it an important part of how I continue to learn and grow as a researcher.
 
-### [Scalable Graph Transformers: A Review](https://example.com/blog_post_1)
-In this blog post, I provide an introduction to geometric deep learning and its applications in molecular design and structure prediction.
+### [Understanding and Fixing Bottlenecks in State Space Models: What Recency and Over-Smoothing Tell Us](https://iclr-blogposts.github.io/2026/blog/2026/fixing-bottlenecks-in-state-space-models/)
 
-### [A new Perspective for Diffusion: A Review](https://example.com/blog_post_2)
-Explore the world of protein language modeling in this comprehensive blog post where I discuss the latest advancements and challenges in the field.
-
-### [Overview of Transformers: An NLP Perspective](https://example.com/blog_post_3)
-Learn about the fundamentals of molecular dynamics simulation and its applications in drug discovery and molecular modeling.
+### [Sequence Models as Matrix Mixers: A Unifying View Beyond Attention](https://example.com/blog_post_2)
 
 Click here to learn more about my:
   * [Education and Coursework](https://adrita78.github.io/education/)
