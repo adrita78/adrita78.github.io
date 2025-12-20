@@ -29,8 +29,8 @@ I enjoy consolidating my learning by writing blogs and short reports on mathemat
 ### [Sequence Models as Matrix Mixers: A Unifying View Beyond Attention](https://example.com/blog_post_2)
 
 Click here to learn more about my:
-  * [Education and Coursework](https://adrita78.github.io/education/)
-  * [Research Experience](https://adrita78.github.io/experience/)
+  * [Courses](https://adrita78.github.io/education/)
+  * [Research](https://adrita78.github.io/experience/)
   * [Projects](https://adrita78.github.io/projects/)
   * [Teaching and Mentorship](https://adrita78.github.io/teaching/)
   * [Activities](https://adrita78.github.io/activities/)
