@@ -40,7 +40,8 @@ Contact Me!
   * [LinkedIn](https://www.linkedin.com/in/adrita-das-6b05a615a/)
   * [GitHub](https://github.com/adrita78)
   * [Google Scholar](https://scholar.google.com/citations?user=R6EtfNEAAAAJ&hl=en)
-  * Email: adritad@andrew.cmu.edu
+  * [ResearchGate](https://www.researchgate.net/profile/Adrita-Das-8?ev=hdr_xprf)
+  * Email: adrita.riman@gmail.com
 
 Thanks for visiting!!
 
