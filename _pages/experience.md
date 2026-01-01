@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Experience"
+title: "Publications"
 permalink: /experience/
 author_profile: true
 ---
-## Publications
 
 
 Please do reach out to me through email, if you have any questions about my research. I'd love to talk more!
