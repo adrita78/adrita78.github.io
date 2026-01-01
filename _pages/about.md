@@ -12,7 +12,7 @@ Hi, I am Adrita! I am interested in working at the intersection of machine learn
 
 **Recent work.**  
 Recently, I worked on **efficient diffusion models for molecular generation**, focusing on reducing the computational cost of 3D molecule synthesis without sacrificing structural fidelity. In particular, I studied **Directly Denoising Diffusion Models (DDDMs)** and provided a principled reinterpretation using the **Reverse Transition Kernel (RTK) framework**, showing that deterministic denoising corresponds to a structured transport map from noisy to clean molecular states. This perspective explains why few-step, deterministic diffusion can achieve fast and stable inference. Building on this, I developed **SE(3)-equivariant, state-space–based diffusion architectures** that scale to large molecules, capture long-range dependencies, and outperform stochastic diffusion baselines in both efficiency and generative quality on the GEOM dataset.  
-This work was conducted in collaboration with **[Barnabás Póczos](https://www.cs.cmu.edu/~bapoczos/)** and **[José Lugo-Martínez](https://joselugomartinez.github.io/)**.
+This work was conducted in collaboration with **[Prof. Barnabás Póczos](https://www.cs.cmu.edu/~bapoczos/)** and **[Prof. José Lugo-Martínez](https://www.andrew.cmu.edu/user/jlugomar/)**.
 
 Feel free to explore my projects and technical blogs. If you share similar interests or have exciting ideas to discuss, don't hesitate to reach out via email. Let's collaborate and create something amazing together!
 
