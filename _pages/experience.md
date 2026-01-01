@@ -4,7 +4,7 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-## Research Experience
+## Research 
 
 
 Please do reach out to me through email, if you have any questions about my research. I'd love to talk more!
