@@ -17,14 +17,15 @@ author_profile: true
 [Code](https://github.com/adrita78/breaking-bottlenecks-3d-diffusion)
 [Hugging Face](https://huggingface.co/adrita78)
 
-<br>
+
 **Peiran Jiang, Adrita Das, weifeng Wu, Dantong Zhu, Huaiyaing Zhang, Jose Lugo-Martinez.**  
 *OpenPhase: Condition-Aware Exploration of Multicomponent Biosystem Phase-Separating Behavior.*  
 *(under review).* 
 *Code and Models will be released only upon acceptance.*
 
 [Preprint](https://www.researchgate.net/publication/398513887_OPENPHASE_CONDITION-AWARE_EXPLORATION_OF_MULTICOMPONENT_BIOSYSTEM_PHASE-SEPARATING_BEHAVIOR)
-<br>
+
+
 **Adrita Das, Peiran Jiang, Dantong Zhu, Barnabas Poczos, Jose Lugo-Martinez.**  
 *State-Space Architectures for Scalable Diffusion-based 3D Molecule Generation.*  
 **NeurIPS 2025 Workshop on Structured Probabilistic Inference & Generative Modeling**
