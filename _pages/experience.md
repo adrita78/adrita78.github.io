@@ -18,7 +18,7 @@ author_profile: true
 [Hugging Face](https://huggingface.co/adrita78)
 
 
-**Peiran Jiang, Adrita Das, weifeng Wu, Dantong Zhu, Huaiyaing Zhang, Jose Lugo-Martinez.**  
+**Peiran Jiang, Adrita Das, Weifeng Wu, Dantong Zhu, Huaiyaing Zhang, Jose Lugo-Martinez.**  
 *OpenPhase: Condition-Aware Exploration of Multicomponent Biosystem Phase-Separating Behavior.*  
 *(under review).* 
 *Code and Models will be released only upon acceptance.*
