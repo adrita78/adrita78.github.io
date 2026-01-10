@@ -39,8 +39,9 @@ author_profile: true
 *PeptideBERT: A Language Model Based on Transformers for Peptide Property Prediction.*  
 **The Journal of Physical Chemistry Letters**  
 
-[Paper](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02398)
-[Code](https://github.com/ChakradharG/PeptideBERT)
+📄 [Paper](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02398)
+&nbsp;&nbsp;&nbsp;&nbsp;
+💻 [Code](https://github.com/ChakradharG/PeptideBERT)
 
 
 <small>† Equal contribution among the co–first authors.</small>
