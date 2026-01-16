@@ -13,7 +13,9 @@ author_profile: true
 *Breaking the Bottlenecks: Scalable Diffusion Models for 3D Molecular Generation.* 
 *(under review).* 
 
-📄 [Preprint](https://www.researchgate.net/publication/398513650_Breaking_the_Bottlenecks_Scalable_Diffusion_Models_for_3D_Molecular_Generation?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0)
+📄 [Preprint (ResearchGate)](https://www.researchgate.net/publication/398513650_Breaking_the_Bottlenecks_Scalable_Diffusion_Models_for_3D_Molecular_Generation?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0)
+&nbsp;&nbsp;&nbsp;&nbsp;
+📄 [arXiv](http://arxiv.org/abs/2601.08963)
 &nbsp;&nbsp;&nbsp;&nbsp;
 💻 [Code](https://github.com/adrita78/breaking-bottlenecks-3d-diffusion)
 &nbsp;&nbsp;&nbsp;&nbsp;
