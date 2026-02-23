@@ -29,7 +29,7 @@ author_profile: true
  | [Code](https://github.com/nicetone9/OpenPhase)
 
  **Adrita Das, Dantong Zhu.**  
-*Understanding and Fixing Bottlenecks in State Space Models: What Recency and Over-Smoothing Tell Us.*  
+*[Understanding and Fixing Bottlenecks in State Space Models: What Recency and Over-Smoothing Tell Us](https://iclr-blogposts.github.io/2026/blog/2026/fixing-bottlenecks-in-state-space-models/).*  
 **Accepted to ICLR 2026 Blogpost Track (Poster).**
 
 ### **2025**
