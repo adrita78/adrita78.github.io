@@ -28,6 +28,10 @@ author_profile: true
 [Paper](https://drive.google.com/file/d/1fWoEBndbMXpjb3CU62PYXyywfKY2vVFP/view?usp=sharing) | [Preprint](https://www.researchgate.net/publication/398513887_OPENPHASE_CONDITION-AWARE_EXPLORATION_OF_MULTICOMPONENT_BIOSYSTEM_PHASE-SEPARATING_BEHAVIOR)
  | [Code](https://github.com/nicetone9/OpenPhase)
 
+ **Adrita Das, Dantong Zhu.**  
+*Understanding and Fixing Bottlenecks in State Space Models: What Recency and Over-Smoothing Tell Us.*  
+**Accepted to ICLR 2026 Blogpost Track (Poster).**
+
 ### **2025**
 **Adrita Das, Peiran Jiang, Dantong Zhu, Barnabas Poczos, Jose Lugo-Martinez.**  
 *State-Space Architectures for Scalable Diffusion-based 3D Molecule Generation.*  
