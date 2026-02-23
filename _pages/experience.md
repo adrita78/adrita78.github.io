@@ -9,9 +9,13 @@ author_profile: true
 
 ### **2026**
 
-**Adrita Das, Peiran Jiang, Dantong Zhu, Barnabas Poczos, Jose Lugo-Martinez.**  
-*Breaking the Bottlenecks: Scalable Diffusion Models for 3D Molecular Generation.* 
-*(under review).* 
+**Adrita Das, Peiran Jiang, Dantong Zhu, Barnabás Póczos, José Lugo-Martínez.**
+*BREAKING THE BOTTLENECKS: Scalable Diffusion Models for 3D Molecular Generation.*
+**Under review at ICLR 2026 Workshop (DeLTa).** 
+
+**Peiran Jiang, Adrita Das, Weifeng Wu, Simran Sodhi, Huaiying Zhang, José Lugo-Martínez.**
+*Design of Phase-Separating Biosystems via Joint Diffusion and Positive-Unlabeled Guidance.*
+**Under review at ICLR 2026 Workshop on Generative and Experimental Methods (GEM).**
 
 
 **Peiran Jiang, Adrita Das, Weifeng Wu, Dantong Zhu, Huaiyaing Zhang, Jose Lugo-Martinez.**  
@@ -19,7 +23,7 @@ author_profile: true
 *(under review at ISMB 2026).* 
 
 [Paper](https://drive.google.com/file/d/1fWoEBndbMXpjb3CU62PYXyywfKY2vVFP/view?usp=sharing) | [Preprint](https://www.researchgate.net/publication/398513887_OPENPHASE_CONDITION-AWARE_EXPLORATION_OF_MULTICOMPONENT_BIOSYSTEM_PHASE-SEPARATING_BEHAVIOR)
-) | [Code](https://github.com/nicetone9/OpenPhase)
+ | [Code](https://github.com/nicetone9/OpenPhase)
 
 ### **2025**
 **Adrita Das, Peiran Jiang, Dantong Zhu, Barnabas Poczos, Jose Lugo-Martinez.**  
