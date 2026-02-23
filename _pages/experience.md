@@ -13,11 +13,15 @@ author_profile: true
 *Breaking the Bottlenecks: Scalable Diffusion Models for 3D Molecular Generation.*  
 **Under review at ICLR 2026 Workshop (DeLTa).**
 
+[Paper](https://drive.google.com/file/d/1HDuF2RqpcChxeJzlgWzatxhP5LlQ9WKV/view?usp=sharing) ·  
+
 <br>
 
 **Peiran Jiang, Adrita Das, Weifeng Wu, Simran Sodhi, Huaiying Zhang, José Lugo-Martínez.**  
 *Design of Phase-Separating Biosystems via Joint Diffusion and Positive-Unlabeled Guidance.*  
 **Under review at ICLR 2026 Workshop on Generative and Experimental Methods (GEM).**
+
+[Paper](https://drive.google.com/file/d/1u9O0M-kx9ycX_5fi9efy1UPhCpVXPk5i/view?usp=sharing) ·  
 
 <br>
 
@@ -27,6 +31,8 @@ author_profile: true
 
 [Paper](https://drive.google.com/file/d/1fWoEBndbMXpjb3CU62PYXyywfKY2vVFP/view?usp=sharing) | [Preprint](https://www.researchgate.net/publication/398513887_OPENPHASE_CONDITION-AWARE_EXPLORATION_OF_MULTICOMPONENT_BIOSYSTEM_PHASE-SEPARATING_BEHAVIOR)
  | [Code](https://github.com/nicetone9/OpenPhase)
+
+ <br>
 
  **Adrita Das, Dantong Zhu.**  
 *[Understanding and Fixing Bottlenecks in State Space Models: What Recency and Over-Smoothing Tell Us](https://iclr-blogposts.github.io/2026/blog/2026/fixing-bottlenecks-in-state-space-models/).*  
