@@ -7,7 +7,7 @@ author_profile: true
 
 ## 📄 Publications
 
-### **2025**
+### **2026**
 
 **Adrita Das, Peiran Jiang, Dantong Zhu, Barnabas Poczos, Jose Lugo-Martinez.**  
 *Breaking the Bottlenecks: Scalable Diffusion Models for 3D Molecular Generation.* 
@@ -23,12 +23,13 @@ author_profile: true
 
 **Peiran Jiang, Adrita Das, Weifeng Wu, Dantong Zhu, Huaiyaing Zhang, Jose Lugo-Martinez.**  
 *OpenPhase: Condition-Aware Exploration of Multicomponent Biosystem Phase-Separating Behavior.*  
-*(under review).* 
-*Code and Models will be released only upon acceptance.*
+*(under review at ISMB 2026).* 
 
+[Paper](https://drive.google.com/file/d/1fWoEBndbMXpjb3CU62PYXyywfKY2vVFP/view?usp=sharing)
 [Preprint](https://www.researchgate.net/publication/398513887_OPENPHASE_CONDITION-AWARE_EXPLORATION_OF_MULTICOMPONENT_BIOSYSTEM_PHASE-SEPARATING_BEHAVIOR)
+[Code](https://github.com/nicetone9/OpenPhase)
 
-
+### **2025**
 **Adrita Das, Peiran Jiang, Dantong Zhu, Barnabas Poczos, Jose Lugo-Martinez.**  
 *State-Space Architectures for Scalable Diffusion-based 3D Molecule Generation.*  
 **NeurIPS 2025 Workshop on Structured Probabilistic Inference & Generative Modeling**
