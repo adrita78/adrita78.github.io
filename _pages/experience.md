@@ -28,6 +28,7 @@ author_profile: true
 **Peiran Jiang, Adrita Das, Weifeng Wu, Dantong Zhu, Huaiying Zhang, José Lugo-Martínez.**  
 *OpenPhase: Condition-Aware Exploration of Multicomponent Biosystem Phase-Separating Behavior.*  
 **Under review at ISMB 2026.**
+
 📄 [Paper](https://drive.google.com/file/d/1fWoEBndbMXpjb3CU62PYXyywfKY2vVFP/view?usp=sharing)
 &nbsp;&nbsp;&nbsp;&nbsp;
 🧾 [Preprint](https://www.researchgate.net/publication/398513887_OPENPHASE_CONDITION-AWARE_EXPLORATION_OF_MULTICOMPONENT_BIOSYSTEM_PHASE-SEPARATING_BEHAVIOR)
