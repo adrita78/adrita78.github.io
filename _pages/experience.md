@@ -15,7 +15,6 @@ author_profile: true
 
 [Paper](https://drive.google.com/file/d/1HDuF2RqpcChxeJzlgWzatxhP5LlQ9WKV/view?usp=sharing) ·  
 
-<br>
 
 **Peiran Jiang, Adrita Das, Weifeng Wu, Simran Sodhi, Huaiying Zhang, José Lugo-Martínez.**  
 *Design of Phase-Separating Biosystems via Joint Diffusion and Positive-Unlabeled Guidance.*  
@@ -23,7 +22,6 @@ author_profile: true
 
 [Paper](https://drive.google.com/file/d/1u9O0M-kx9ycX_5fi9efy1UPhCpVXPk5i/view?usp=sharing) ·  
 
-<br>
 
 **Peiran Jiang, Adrita Das, Weifeng Wu, Dantong Zhu, Huaiying Zhang, José Lugo-Martínez.**  
 *OpenPhase: Condition-Aware Exploration of Multicomponent Biosystem Phase-Separating Behavior.*  
@@ -36,7 +34,6 @@ author_profile: true
 💻 [Code](https://github.com/nicetone9/OpenPhase)
 &nbsp;&nbsp;&nbsp;&nbsp;
 
- <br>
 
  **Adrita Das, Dantong Zhu.**  
 *[Understanding and Fixing Bottlenecks in State Space Models: What Recency and Over-Smoothing Tell Us](https://iclr-blogposts.github.io/2026/blog/2026/fixing-bottlenecks-in-state-space-models/).*  
