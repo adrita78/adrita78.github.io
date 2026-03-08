@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Carnegie Mellon University
-August 2022 - December 2023
+August 2022 - May 2024
 
 Master of Science, Computational Biology- Machine Learning (AI-ML Research)
 
