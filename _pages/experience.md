@@ -11,17 +11,17 @@ author_profile: true
 
 **Adrita Das, Peiran Jiang, Dantong Zhu, Barnabás Póczos, José Lugo-Martínez.**  
 *Breaking the Bottlenecks: Scalable Diffusion Models for 3D Molecular Generation.*  
-**Under review at ICLR 2026 Workshop (DeLTa).**
+**Accepted at ICLR 2026 Workshop (DeLTa).**
 
-[Paper](https://drive.google.com/file/d/1HDuF2RqpcChxeJzlgWzatxhP5LlQ9WKV/view?usp=sharing)
+[Paper](https://openreview.net/forum?id=0pUzj8yhG5&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FDeLTa%2FAuthors%23your-submissions)
 
 ---
 
 **Peiran Jiang, Adrita Das, Weifeng Wu, Simran Sodhi, Huaiying Zhang, José Lugo-Martínez.**  
 *Design of Phase-Separating Biosystems via Joint Diffusion and Positive-Unlabeled Guidance.*  
-**Under review at ICLR 2026 Workshop on Generative and Experimental Methods (GEM).**
+**Accepted at ICLR 2026 Workshop on Generative and Experimental Methods (GEM).**
 
-[Paper](https://drive.google.com/file/d/1u9O0M-kx9ycX_5fi9efy1UPhCpVXPk5i/view?usp=sharing)
+[Paper](https://openreview.net/forum?id=RV5bw5nGZm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FGEM%2FAuthors%23your-submissions)
 
 ---
 
