@@ -8,7 +8,7 @@ author_profile: true
 ### Carnegie Mellon University
 August 2022 - December 2023
 
-Master of Science, Bioengineering (AI-ML Research)
+Master of Science, Computational Biology- Machine Learning (AI-ML Research)
 
 
 ### Carnegie Mellon University
