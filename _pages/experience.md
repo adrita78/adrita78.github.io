@@ -34,33 +34,6 @@ author_profile: true
 
 ---
 
-## 📄 Publications
-
-### **2026**
-
-**Peiran Jiang, Adrita Das, Weifeng Wu, Dantong Zhu, Huaiying Zhang, José Lugo-Martínez.**  
-*OpenPhase: Condition-Aware Exploration of Multicomponent Biosystem Phase-Separating Behavior.*  
-**Under review at ISMB 2026.**
-
-📄 [Paper](https://drive.google.com/file/d/1fWoEBndbMXpjb3CU62PYXyywfKY2vVFP/view?usp=sharing)  
-🧾 [Preprint](https://www.researchgate.net/publication/398513887_OPENPHASE_CONDITION-AWARE_EXPLORATION_OF_MULTICOMPONENT_BIOSYSTEM_PHASE-SEPARATING_BEHAVIOR)  
-💻 [Code](https://github.com/nicetone9/OpenPhase)
-
----
-
-### **2023**
-
-**Chakradhar Guntuboina†, Adrita Das†, Parisa Mollaei, Seongwon Kim, Amir Barati Farimani.**  
-*PeptideBERT: A Language Model Based on Transformers for Peptide Property Prediction.*  
-**The Journal of Physical Chemistry Letters**
-
-📄 [Paper](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02398)  
-💻 [Code](https://github.com/ChakradharG/PeptideBERT)
-
-<small>† Equal contribution among the co–first authors.</small>
-
----
-
 ## ✍️ Blog & Articles
 
 ### **2026**
@@ -70,6 +43,18 @@ author_profile: true
 **Accepted to ICLR 2026 Blogpost Track (Poster).**
 
 [Read the article](https://iclr-blogposts.github.io/2026/blog/2026/fixing-bottlenecks-in-state-space-models/)
+
+---
+
+
+### **Work in Progress**
+
+**Peiran Jiang, Adrita Das, Weifeng Wu, Dantong Zhu, Huaiying Zhang, José Lugo-Martínez.**  
+*OpenPhase: Condition-Aware Exploration of Multicomponent Biosystem Phase-Separating Behavior.*
+
+📄 [Paper](https://drive.google.com/file/d/1fWoEBndbMXpjb3CU62PYXyywfKY2vVFP/view?usp=sharing)  
+🧾 [Preprint](https://www.researchgate.net/publication/398513887_OPENPHASE_CONDITION-AWARE_EXPLORATION_OF_MULTICOMPONENT_BIOSYSTEM_PHASE-SEPARATING_BEHAVIOR)  
+💻 [Code](https://github.com/nicetone9/OpenPhase)
 
 ---
 
