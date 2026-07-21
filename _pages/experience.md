@@ -40,7 +40,7 @@ author_profile: true
 
 **Adrita Das, Dantong Zhu.**  
 *Understanding and Fixing Bottlenecks in State Space Models: What Recency and Over-Smoothing Tell Us.*  
-**Accepted to ICLR 2026 Blogpost Track (Poster).**
+**ICLR 2026 Blogpost Track (Poster).**
 
 [Read the article](https://iclr-blogposts.github.io/2026/blog/2026/fixing-bottlenecks-in-state-space-models/)
 
