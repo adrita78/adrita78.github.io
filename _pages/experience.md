@@ -68,6 +68,14 @@ author_profile: true
 
 ---
 
+### **2023**
+
+**Chakradhar Guntuboina†, Adrita Das†, Parisa Mollaei, Seongwon Kim, Amir Barati Farimani.**  
+*PeptideBERT: A Transformer Language Model for Peptide Property Prediction.*  
+**Journal of Physical Chemistry Letters (JPCL), 2023.**
+
+📄 [Paper](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02398)
+
 Please do reach out to me through email if you have any questions about my research.  
 I'd love to talk more!
 
