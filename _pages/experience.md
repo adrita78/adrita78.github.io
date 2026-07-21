@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 📚 Workshops
-
+ 
 ### **2026**
 
 **Adrita Das, Peiran Jiang, Dantong Zhu, Barnabás Póczos, José Lugo-Martínez.**  
@@ -45,6 +45,12 @@ author_profile: true
 [Read the article](https://iclr-blogposts.github.io/2026/blog/2026/fixing-bottlenecks-in-state-space-models/)
 
 ---
+## 📄 Preprints
+
+### **2026**
+
+**Adrita Das, Peiran Jiang, Dantong Zhu, Barnabás Póczos, José Lugo-Martínez.**  
+*Breaking the Bottlenecks: Scalable Diffusion Models for 3D Molecular Generation*
 
 
 ### **Under Review**
