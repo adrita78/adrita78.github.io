@@ -51,6 +51,10 @@ author_profile: true
 
 **Adrita Das, Peiran Jiang, Dantong Zhu, Barnabás Póczos, José Lugo-Martínez.**  
 *Breaking the Bottlenecks: Scalable Diffusion Models for 3D Molecular Generation*
+**Preprint**
+
+📑 [arXiv](https://arxiv.org/abs/2601.08963)•
+💻 [Code](https://github.com/adrita78/breaking-bottlenecks-3d-diffusion)
 
 
 ### **Under Review**
