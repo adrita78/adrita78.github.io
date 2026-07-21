@@ -10,7 +10,7 @@ author_profile: true
 ### **2026**
 
 **Adrita Das, Peiran Jiang, Dantong Zhu, Barnabás Póczos, José Lugo-Martínez.**  
-*Breaking the Bottlenecks: Scalable Diffusion Models for 3D Molecular Generation.*  
+*Understanding Deterministic Diffusion through Reverse Transition Kernels.*  
 **ICLR 2026 Workshop (DeLTa).**
 
 [Paper](https://openreview.net/forum?id=0pUzj8yhG5)
@@ -47,7 +47,7 @@ author_profile: true
 ---
 
 
-### **Work in Progress**
+### **Under Review**
 
 **Peiran Jiang, Adrita Das, Weifeng Wu, Dantong Zhu, Huaiying Zhang, José Lugo-Martínez.**  
 *OpenPhase: Condition-Aware Exploration of Multicomponent Biosystem Phase-Separating Behavior.*
