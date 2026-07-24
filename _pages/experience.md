@@ -76,6 +76,18 @@ author_profile: true
 
 📄 [Paper](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02398)
 
+# Protein Architects: Generative AI for De Novo Protein Design
+
+**GenAI Hackathon – Carnegie Mellon University School of Computer Science (2023)**
+
+Developed a generative AI platform for de novo protein engineering using transformer-based protein language models. Implemented iterative masked-token sampling to generate novel protein variants for Alzheimer's disease drug discovery and built an interactive web application for AI-assisted protein sequence generation.
+
+**Keywords:** Protein Language Models • Generative AI • Computational Biology • Drug Discovery • Transformers
+
+**Technologies:** PyTorch • HuggingFace Transformers • Python
+
+**Links:** [GitHub](https://github.com/deskk/proteinarchitects) • [Demo](https://github.com/adrita78/proteinarchitects) • [Poster](https://genaihackathon2023.github.io/tracks/medicine/protein-architects/main.html)
+
 Please do reach out to me through email if you have any questions about my research.  
 I'd love to talk more!
 
