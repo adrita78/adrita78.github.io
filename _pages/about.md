@@ -10,19 +10,14 @@ redirect_from:
 
 Hi, I’m Adrita Das.
 
-My research lies at the intersection of machine learning, generative AI, and computational biology. I am particularly interested in building learning systems that can model complex biological and scientific data while remaining computationally efficient and mathematically well understood. 
+My research interests lie at the intersection of machine learning, generative AI, and computational biology. I am interested in developing efficient and reliable machine learning methods to understand complex biological and scientific problems.
  
-
-
-Feel free to explore my projects and technical blogs. If you share similar interests or have exciting ideas to discuss, don't hesitate to reach out via email. Let's collaborate and create something amazing together!
 
 What Languages Do I Use?
 ------
 Python, R, C++, C, Java, MATLAB, CUDA
 
-## Technical Blogs
-I enjoy consolidating my learning by writing blogs and short reports on mathematics and machine learning papers. Writing helps me clarify ideas, connect concepts, and reflect deeply on what I’ve read, making it an important part of how I continue to learn and grow as a researcher.
-
+Feel free to explore my projects and technical blogs. If you share similar interests or have exciting ideas to discuss, don't hesitate to reach out via email. Let's collaborate and create something amazing together!
 
 Click here to learn more about my:
   * [Courses](https://adrita78.github.io/education/)
