@@ -15,7 +15,7 @@ My research interests lie at the intersection of machine learning, generative AI
 
 What Languages Do I Use?
 ------
-Python, R, C++, C, Java, MATLAB, CUDA
+Python, R, C++, C, Java, MATLAB, Bash
 
 Feel free to explore my projects and technical blogs. If you share similar interests or have exciting ideas to discuss, don't hesitate to reach out via email. Let's collaborate and create something amazing together!
 
